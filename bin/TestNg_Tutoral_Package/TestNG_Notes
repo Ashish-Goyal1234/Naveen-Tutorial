@@ -1,0 +1,17 @@
+TestNG is Testing New Generation Framework.or unit test framework.
+TestNG is also call as TDD--Test Driven Development.ued in agile methodology.
+Purpose Of TestNg--Design TestCases in systamatic way.
+TestNG Is Opensource.
+It is available in Jar File
+It is also called as java unit testing framework.TestNg Is used only for java language for php or other language ther might be other.
+Advantages
+1. design testcase in systematic way.
+2.generate HTML
+3.IT gives lot of annotation.
+4.It gives priorites or sequence can design.
+5.dependency
+6.define grouping
+7.data provider.: wanted to execute testcase mulitiple times.
+We Never Need main method in TestNG.TestNg will automatically execute the class.
+In Package IF I have 50 classes then to execute all the classes at a time by XMl template.	
+Right click on src >> New >>others >>File >>Give name as file name.xml.

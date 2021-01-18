@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="3" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="35" started-at="2020-10-03T08:57:00Z" finished-at="2020-10-03T08:57:00Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="35" started-at="2020-10-03T08:57:00Z" finished-at="2020-10-03T08:57:00Z">
+      <class name="TestNg_Tutoral_Package.C2_TestNG_Basic_Easy_Understand">
+        <test-method status="PASS" signature="setup()[pri:0, instance:TestNg_Tutoral_Package.C2_TestNG_Basic_Easy_Understand@1810399e]" name="setup" is-config="true" duration-ms="11" started-at="2020-10-03T14:27:00Z" finished-at="2020-10-03T14:27:00Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="launchBrowser()[pri:0, instance:TestNg_Tutoral_Package.C2_TestNG_Basic_Easy_Understand@1810399e]" name="launchBrowser" is-config="true" duration-ms="1" started-at="2020-10-03T14:27:00Z" finished-at="2020-10-03T14:27:00Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- launchBrowser -->
+        <test-method status="PASS" signature="login()[pri:0, instance:TestNg_Tutoral_Package.C2_TestNG_Basic_Easy_Understand@1810399e]" name="login" is-config="true" duration-ms="1" started-at="2020-10-03T14:27:00Z" finished-at="2020-10-03T14:27:00Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login -->
+        <test-method status="PASS" signature="Enter_URl()[pri:0, instance:TestNg_Tutoral_Package.C2_TestNG_Basic_Easy_Understand@1810399e]" name="Enter_URl" is-config="true" duration-ms="1" started-at="2020-10-03T14:27:00Z" finished-at="2020-10-03T14:27:00Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Enter_URl -->
+        <test-method status="PASS" signature="googleTitleTest()[pri:0, instance:TestNg_Tutoral_Package.C2_TestNG_Basic_Easy_Understand@1810399e]" name="googleTitleTest" duration-ms="5" started-at="2020-10-03T14:27:00Z" finished-at="2020-10-03T14:27:00Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- googleTitleTest -->
+        <test-method status="PASS" signature="logout()[pri:0, instance:TestNg_Tutoral_Package.C2_TestNG_Basic_Easy_Understand@1810399e]" name="logout" is-config="true" duration-ms="0" started-at="2020-10-03T14:27:00Z" finished-at="2020-10-03T14:27:00Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- logout -->
+        <test-method status="PASS" signature="serachtest()[pri:0, instance:TestNg_Tutoral_Package.C2_TestNG_Basic_Easy_Understand@1810399e]" name="serachtest" duration-ms="2" started-at="2020-10-03T14:27:00Z" finished-at="2020-10-03T14:27:00Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- serachtest -->
+        <test-method status="PASS" signature="Enter_URl()[pri:0, instance:TestNg_Tutoral_Package.C2_TestNG_Basic_Easy_Understand@1810399e]" name="Enter_URl" is-config="true" duration-ms="0" started-at="2020-10-03T14:27:00Z" finished-at="2020-10-03T14:27:00Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Enter_URl -->
+        <test-method status="PASS" signature="logout()[pri:0, instance:TestNg_Tutoral_Package.C2_TestNG_Basic_Easy_Understand@1810399e]" name="logout" is-config="true" duration-ms="0" started-at="2020-10-03T14:27:00Z" finished-at="2020-10-03T14:27:00Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- logout -->
+        <test-method status="PASS" signature="Enter_URl()[pri:0, instance:TestNg_Tutoral_Package.C2_TestNG_Basic_Easy_Understand@1810399e]" name="Enter_URl" is-config="true" duration-ms="1" started-at="2020-10-03T14:27:00Z" finished-at="2020-10-03T14:27:00Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Enter_URl -->
+        <test-method status="PASS" signature="spellingtest()[pri:0, instance:TestNg_Tutoral_Package.C2_TestNG_Basic_Easy_Understand@1810399e]" name="spellingtest" duration-ms="1" started-at="2020-10-03T14:27:00Z" finished-at="2020-10-03T14:27:00Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- spellingtest -->
+        <test-method status="PASS" signature="logout()[pri:0, instance:TestNg_Tutoral_Package.C2_TestNG_Basic_Easy_Understand@1810399e]" name="logout" is-config="true" duration-ms="0" started-at="2020-10-03T14:27:00Z" finished-at="2020-10-03T14:27:00Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- logout -->
+        <test-method status="PASS" signature="closeBrowser()[pri:0, instance:TestNg_Tutoral_Package.C2_TestNG_Basic_Easy_Understand@1810399e]" name="closeBrowser" is-config="true" duration-ms="0" started-at="2020-10-03T14:27:00Z" finished-at="2020-10-03T14:27:00Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeBrowser -->
+        <test-method status="PASS" signature="deleteCookies()[pri:0, instance:TestNg_Tutoral_Package.C2_TestNG_Basic_Easy_Understand@1810399e]" name="deleteCookies" is-config="true" duration-ms="0" started-at="2020-10-03T14:27:00Z" finished-at="2020-10-03T14:27:00Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- deleteCookies -->
+        <test-method status="PASS" signature="generatetestreport()[pri:0, instance:TestNg_Tutoral_Package.C2_TestNG_Basic_Easy_Understand@1810399e]" name="generatetestreport" is-config="true" duration-ms="0" started-at="2020-10-03T14:27:00Z" finished-at="2020-10-03T14:27:00Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- generatetestreport -->
+      </class> <!-- TestNg_Tutoral_Package.C2_TestNG_Basic_Easy_Understand -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

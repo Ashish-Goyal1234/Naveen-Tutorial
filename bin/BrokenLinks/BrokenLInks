@@ -1,0 +1,4 @@
+Links are associated by a href tag and image is associated by img tag.
+If there are 1000 link not able to check manually so below programme is for that
+Steps to develop:
+1. get the list of all links and images.

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name = "TestNG Automation Suite">
+	<test name = "Different TestNG Feature test">
+		<classes>
+			<class name="TestNg_Tutoral_Package.C1_TestNg_Basic"/>  								//packagename.classname
+			<class name="TestNg_Tutoral_Package.C2_TestNG_Basic_Easy_Understand"/>					//packagename.classname
+			<class name="TestNg_Tutoral_Package.C3_Google_Test"/>									//packagename.classname
+			<class name="TestNg_Tutoral_Package.C4_TestNGFeatures"/>								//packagename.classname
+			<class name="TestNg_Tutoral_Package.C5_InvocationCount"/>								//packagename.classname
+			<class name="TestNg_Tutoral_Package.C6_exceptionTimeOut"/>								//packagename.classname
+			<class name="TestNg_Tutoral_Package.C7_GoogleTitleTest"/>								//packagename.classname				
+		</classes>
+	<!-- This is how we comment in xml  or select label >> right click >>source >>add block comment-->
+	</test>
+</suite>

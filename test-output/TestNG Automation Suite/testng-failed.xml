@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite thread-count="-1" name="Failed suite [TestNG Automation Suite]">
+  <test name="Different TestNG Feature test(failed)">
+    <classes>
+      <class name="TestNg_Tutoral_Package.C4_TestNGFeatures">
+        <methods>
+          <include name="logintest"/>
+        </methods>
+      </class> <!-- TestNg_Tutoral_Package.C4_TestNGFeatures -->
+      <class name="TestNg_Tutoral_Package.C7_GoogleTitleTest">
+        <methods>
+          <include name="googleTitle"/>
+          <include name="close"/>
+          <include name="setup"/>
+          <include name="googleLogoTest"/>
+        </methods>
+      </class> <!-- TestNg_Tutoral_Package.C7_GoogleTitleTest -->
+    </classes>
+  </test> <!-- Different TestNG Feature test(failed) -->
+</suite> <!-- Failed suite [TestNG Automation Suite] -->
